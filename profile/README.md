@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://github.com/knackrun/.github/raw/main/profile/logo-mark.png" width="120" alt="Knack" />
-
   # Knack
 
   **A curated catalogue of Claude Code skill packs.**
