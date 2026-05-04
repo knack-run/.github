@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/knackrun/.github/raw/main/profile/logo-mark.svg" width="120" alt="Knack" />
+  <img src="https://github.com/knackrun/.github/raw/main/profile/logo-mark.jpg" width="120" alt="Knack" />
 
   # Knack
 
