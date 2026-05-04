@@ -31,9 +31,9 @@ We publish **one free skill per paid pack** here on GitHub under MIT. Try-before
 
 | Pack | Status | ICP | Price |
 |---|---|---|---|
-| Solo Consultant Ops | ✅ live | Independent consultants, freelance PMs, fractional execs | £69 launch · £99 standard |
-| Indie Hacker Launch | 🛠 ships in 3 weeks | Solo founders shipping projects 2-5 | £69 launch · £99 standard |
-| Hello Knack | 📦 ships week 7 | Anyone new to Claude Code | Free, forever |
+| Solo Consultant Ops | ✅ live | Independent consultants, freelance PMs, fractional execs | £99 |
+| Indie Hacker Launch | 🛠 ships in 3 weeks | Solo founders shipping projects 2-5 | £99 |
+| Knack Starter Pack| ✅ live | Anyone new to Claude Code | Free, forever |
 
 ### How we work
 
