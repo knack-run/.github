@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Knack">
+  <title>Knack</title>
+  <!-- Knack-green roundel -->
+  <rect width="100" height="100" rx="22" fill="#2A5A4B"/>
+  <!-- k stem (paper) -->
+  <rect x="26" y="22" width="11" height="56" rx="5.5" fill="#F7F3ED"/>
+  <!-- k arm = play triangle (spark) -->
+  <path d="M 44 30 L 44 70 L 78 50 Z"
+        fill="#E8743C"
+        stroke="#E8743C"
+        stroke-width="6"
+        stroke-linejoin="round"
+        stroke-linecap="round"/>
+</svg>
