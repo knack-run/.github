@@ -1,54 +1,35 @@
-<div align="center">
+# Knack
 
-  # Knack
+Claude Code skill packs for solo operators and small-team builders.
 
-  **A curated catalogue of Claude Code skill packs.**
+Lifetime priced. No subscription. No telemetry.
 
-  Lifetime priced · No subscription · No vendor lock-in
+[knack.run](https://knack.run) · [Free Starter Pack](https://github.com/knack-run/knack-starter-pack) · [Blog](https://knack.run/blog) · [@knackrun](https://x.com/knackrun)
 
-  [knack.run](https://knack.run) · [Pack #1](https://knack.run/packs/solo-consultant-ops) · [Blog](https://knack.run/blog) · [@knackrun](https://x.com/knackrun)
+## Start here
 
-</div>
+The [Knack Starter Pack](https://github.com/knack-run/knack-starter-pack) is free and MIT-licensed.
 
----
+It includes two Claude Code skills:
 
-### What's a knack pack?
+- `idea-clarifier` turns a rough idea or brief into audience, pain, offer, and first-action plan.
+- `first-skill-template` scaffolds a new Claude Code skill in the canonical Knack shape.
 
-A pre-configured bundle of Claude Code skills, MCP server configurations, and supporting templates that solves one job for one kind of operator. Install in ten minutes. Run forever.
+## Paid catalogue
 
-Each pack ships with:
+Paid knack packs go deeper on one operator workflow.
 
-- **Skills** — written and reviewed against an internal QA gate
-- **MCP servers** — pre-configured, version-pinned
-- **Templates and copy** — matched to the way the role actually works
-- **Install scripts** — finish in under 10 minutes
-
-### What's open source
-
-We publish **one free skill per paid pack** here on GitHub under MIT. Try-before-you-buy for the catalogue. The full pack is sold direct via [Polar](https://polar.sh) at [knack.run](https://knack.run).
-
-### Catalogue
-
-| Pack | Status | ICP | Price |
+| Pack | Status | Audience | Price |
 |---|---|---|---|
-| Solo Consultant Ops | ✅ live | Independent consultants, freelance PMs, fractional execs | £99 |
-| Indie Hacker Launch | 🛠 ships in 3 weeks | Solo founders shipping projects 2-5 | £99 |
-| Knack Starter Pack| ✅ live | Anyone new to Claude Code | Free, forever |
+| Solo Consultant Ops | Live | Independent consultants and fractional executives | £99 lifetime |
+| Indie Hacker Launch | In beta | Solo founders shipping their 2nd to 5th product | £99 lifetime at launch |
 
-### How we work
+## Principles
 
-- **British English** in all copy
-- **Operator-grade**, not startup-loud
-- **Lifetime priced** — every pack, no subscription, ever
-- **14-day no-questions refund** via Polar
-- **Numbers public** every Sunday at [knack.run/blog](https://knack.run/blog)
+- Local-first: packs install into your Claude Code config.
+- No telemetry inside packs.
+- No subscription.
+- Lifetime updates.
+- 14-day no-questions refund on paid packs.
 
-### Contact
-
-- Buyer support · [support@knack.run](mailto:support@knack.run)
-- Partnerships and press · [hello@knack.run](mailto:hello@knack.run)
-- Security disclosures · [support@knack.run](mailto:support@knack.run)
-
----
-
-<sub>Built by an operator with 25 years inside large transformation programmes.</sub>
+Built by an operator with 25 years inside large transformation programmes.
